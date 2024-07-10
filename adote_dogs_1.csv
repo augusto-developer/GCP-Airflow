@@ -1,0 +1,50 @@
+id,nome,idade,raca,porte,sexo,vacinado,vermifugado,castrado,convive_com_animais,convive_com_criancas
+1,Buddy,2,Labrador,Grande,M,1,1,1,1,1
+2,Bella,3,Poodle,Médio,F,1,1,0,1,1
+3,Max,1,Bulldog,Pequeno,M,1,0,0,0,1
+4,Lucy,4,Beagle,Médio,F,0,1,1,1,0
+5,Charlie,5,"Golden Retriever",Grande,M,1,1,1,1,1
+6,Molly,2,"Shih Tzu",Pequeno,F,0,0,0,1,1
+7,Rocky,3,Boxer,Grande,M,1,1,1,0,0
+8,Daisy,1,Dachshund,Pequeno,F,1,1,1,1,1
+9,Toby,4,Rottweiler,Grande,M,0,0,1,1,0
+10,Luna,2,Chihuahua,Pequeno,F,1,1,0,0,1
+11,Jack,3,Pug,Pequeno,M,1,0,1,1,1
+12,Zoe,1,"Yorkshire Terrier",Pequeno,F,1,1,1,1,0
+13,Oscar,4,Schnauzer,Médio,M,0,1,0,1,1
+14,Maggie,5,"Border Collie",Grande,F,1,0,1,1,0
+15,Cooper,2,"Australian Shepherd",Grande,M,1,1,1,0,1
+16,Lola,3,"Cocker Spaniel",Médio,F,0,1,1,1,1
+17,Teddy,1,Maltese,Pequeno,M,1,1,0,1,0
+18,Chloe,4,"Bichon Frise",Pequeno,F,1,0,1,0,1
+19,Duke,5,Doberman,Grande,M,1,1,1,1,0
+20,Sophie,2,Pomeranian,Pequeno,F,0,1,1,1,1
+21,Riley,3,Husky,Grande,M,1,0,0,1,1
+22,Mia,1,"Pit Bull",Grande,F,1,1,1,0,0
+23,Buster,4,"German Shepherd",Grande,M,0,1,1,1,1
+24,Gracie,5,"Shiba Inu",Médio,F,1,0,1,1,0
+25,Oliver,2,"Cavalier King Charles Spaniel",Médio,M,1,1,0,0,1
+26,Sasha,3,Dalmatian,Grande,F,0,1,1,1,1
+27,Gus,1,"Boston Terrier",Pequeno,M,1,0,1,1,0
+28,Roxy,4,"Great Dane",Grande,F,1,1,1,1,1
+29,Bailey,5,"Saint Bernard",Grande,M,0,1,1,0,0
+30,Ellie,2,Samoyed,Grande,F,1,0,1,1,1
+31,Zeus,3,Weimaraner,Grande,M,1,1,0,1,1
+32,Minnie,1,Papillon,Pequeno,F,1,1,1,0,1
+33,Rex,4,Whippet,Médio,M,0,1,1,1,0
+34,Penny,5,"Lhasa Apso",Pequeno,F,1,0,1,1,1
+35,Harley,2,"Old English Sheepdog",Grande,M,1,1,1,0,1
+36,Sandy,3,Havanese,Pequeno,F,1,0,1,1,1
+37,Bruno,1,"Alaskan Malamute",Grande,M,1,1,1,1,0
+38,Ruby,4,"Bernese Mountain Dog",Grande,F,0,1,1,1,1
+39,Simba,5,Akita,Grande,M,1,0,1,0,1
+40,Hazel,2,"Airedale Terrier",Médio,F,1,1,1,1,0
+41,Sam,3,"Basset Hound",Médio,M,0,1,1,1,1
+42,Layla,1,"Cairn Terrier",Pequeno,F,1,0,1,1,0
+43,Bentley,4,"Chow Chow",Grande,M,1,1,1,1,1
+44,Maddie,5,Collie,Grande,F,0,1,1,1,1
+45,Murphy,2,"Irish Setter",Grande,M,1,0,1,1,0
+46,Nala,3,Keeshond,Médio,F,1,1,1,1,1
+47,Henry,1,Newfoundland,Grande,M,0,1,1,1,0
+48,Sadie,4,Pointer,Médio,F,1,1,1,1,1
+49,Milo,5,"Portuguese Water Dog",Grande,M,1,0,1,1,0
